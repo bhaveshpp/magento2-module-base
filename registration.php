@@ -12,6 +12,6 @@
 use Magento\Framework\Component\ComponentRegistrar;
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
-    'Bhaveshpp_ShippingRestrictionOverMonth',
+    'Bhaveshpp_Base',
     __DIR__
 );
